@@ -14,8 +14,4 @@ Edited by Florian
 
 Edited again by Florian
 
-<<<<<<< HEAD
 Edited by Olek
-=======
-
->>>>>>> 8cd814971864c28b0a9f9b2089ba31e661683e28
